@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yuharin's 
+title: Yuharin
 ---
 
 {% for post in site.posts limit:5 %}
