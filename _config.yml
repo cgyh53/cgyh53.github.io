@@ -4,8 +4,8 @@ kramdown:
   math_engine: katex # 防止行间公式渲染错误
 permalink: /posts/:categories/:title # 博文目录
 baseurl:
-title: wu-kan
-url: http://wu-kan.github.io
+title: 유하린의 블로그
+url: http://cgyh53.github.io
 author: WuK
 
 head: # 删改前确定知道自己在做什么
