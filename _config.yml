@@ -1,14 +1,14 @@
 markdown: kramdown
 kramdown:
   input: GFM # Github Flavored Markdown
-  math_engine: katex # 防止行间公式渲染错误
-permalink: /posts/:categories/:title # 博文目录
+  math_engine: katex # 
+permalink: /posts/:categories/:title
 baseurl:
 title: 유하린의 블로그
 url: http://cgyh53.github.io
 author: WuK
 
-head: # 删改前确定知道自己在做什么
+head: 
 - tag: meta # Enable responsiveness on mobile devices
   var:
   - key: name
