@@ -2,7 +2,6 @@
 layout: page
 title: Yuharin's 
 ---
-## 近期
 
 {% for post in site.posts limit:5 %}
 
